@@ -61,6 +61,11 @@ void insertion_sort(int arr[], int n)
         cout << arr[i] << " ";
     }
 }
+/*
+Time complexity for worst and average case O(N^2)
+Time complexity for best case is O(N)
+space complexity : O(1)
+*/
 int main()
 {
     int arr[] = {13, 46, 24, 52, 20, 9};
