@@ -7,5 +7,5 @@ Goals
 - Build strong fundamentals in Data Structures & Algorithms.
 
 ## 📌 References
-- [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/)
+- [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
