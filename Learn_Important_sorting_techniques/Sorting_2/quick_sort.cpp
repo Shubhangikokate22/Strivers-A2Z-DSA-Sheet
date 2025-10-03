@@ -85,3 +85,8 @@ cout<<"The array after sorting : ";
     cout<<endl;
     return 0;
 }
+//complexities
+/*Time Complexity: O(N*logN), where N = size of the array.
+Reason: At each step, we divide the whole array, for that logN and n steps are taken for the partition() function, so overall time complexity will be N*logN.
+Space Complexity: O(1)
+*/
